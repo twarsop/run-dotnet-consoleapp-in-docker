@@ -1,0 +1,15 @@
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\bin\Debug\net7.0\DieRoller.exe
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\bin\Debug\net7.0\DieRoller.deps.json
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\bin\Debug\net7.0\DieRoller.runtimeconfig.json
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\bin\Debug\net7.0\DieRoller.dll
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\bin\Debug\net7.0\DieRoller.pdb
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.csproj.AssemblyReference.cache
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.AssemblyInfoInputs.cache
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.AssemblyInfo.cs
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.csproj.CoreCompileInputs.cache
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.dll
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\refint\DieRoller.dll
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.pdb
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\DieRoller.genruntimeconfig.cache
+C:\Users\t_war\Documents\projects\code\run-dotnet-consoleapp-in-docker\src\DieRoller\obj\Debug\net7.0\ref\DieRoller.dll
